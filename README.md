@@ -8,3 +8,9 @@ Scraping data from Airbnb website
 Dataset Clean-up and pre-processing 
 
 Data Visualization and Trend Analysis
+
+![AirBnb_Analysis](https://github.com/yashrajrawat/AirBnb_Analysis/blob/main/neigh.JPG)
+
+![AirBnb_Analysis](https://github.com/yashrajrawat/AirBnb_Analysis/blob/main/cheap-exp.JPG)
+
+![AirBnb_Analysis](https://github.com/yashrajrawat/AirBnb_Analysis/blob/main/choose.JPG)
